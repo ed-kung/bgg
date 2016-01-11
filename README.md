@@ -1,5 +1,5 @@
 # bgg
-Code for scraping BoardGameGeek
+Code for accessing games data from BoardGameGeek.com
 
 Makes use of boardgamegeek Python library by Phil S. Stein and Tom Usher.  
 http://boardgamegeek.readthedocs.org/  
